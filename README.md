@@ -1,6 +1,10 @@
-# INI GAME LABIRIN
-Game ini adalah implementasi sederhana dari permainan labirin berbasis teks menggunakan Python.
+# Escape the Maze
 
-Pemain dapat menggunakan tombol  ***Arrow Key*** untuk bergerak.
+This game is a simple implementation of a text-based maze game using Python with PyGame.
+
+## Controls
+
+- Use the ***Arrow Keys (↑ ↓ ← →)*** to move the player.
+- Press the ___Spacebar___ to shoot bullets at enemies!
 
 __Have Fun and Good luck !__
